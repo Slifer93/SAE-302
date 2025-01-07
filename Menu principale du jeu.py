@@ -2,6 +2,7 @@ import tkinter as tk
 import pygame
 import random
 
+
 class BlindtestInterface:
     def __init__(self, master):
         self.master = master
